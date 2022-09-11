@@ -1,8 +1,8 @@
-# 100days of ML Code challange
+# ML Zoom Camp challange
 
 ## Overview
 
-This is my commiment to study 100DaysOfMLCode.   
+This is my commiment to study ML Zoom Camp.   
    
 ## Learning Resources 
 
