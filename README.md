@@ -1,6 +1,6 @@
 # ML Zoom Camp challange
 
-## Overview
+## About
 
 This is my commiment to study ML Zoom Camp.   
    
